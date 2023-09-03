@@ -1,0 +1,102 @@
+@import url("https://fonts.google.com/specimen/IBM+Plex+Sans");
+
+
+#menu {
+    color:rgb(38, 38, 197);
+    font-size: 35px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+}
+
+#navul {
+    display: flex;
+    flex-flow: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    
+}
+    
+
+#topiccuri {
+    list-style-type: none;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#topicgale {
+    list-style-type: none;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#titulomain {
+margin-top: 60px;
+
+    color: #ffd21e;
+    font-size: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#frasemain {
+    color: #897f7f;
+    transform: perspective(300px) rotateX(25deg);
+    text-align: center;
+    width: fit-content;
+    margin-left: 150px;
+    margin-right: 150px;
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.element {
+    font-family: 'StarJedi', sans-serif;
+}
+
+ body {
+    background-image: url('src/starsmoving.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+body {
+    background-position: center;
+    background-size: 1800px;    
+    background-repeat: no-repeat;
+    }
+
+#curiotitle {
+    color: white;
+    margin-top: 100px;
+    margin-right: 100px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+
+#divcuri {
+    color:white;
+    background-color:rgb(255, 210, 30);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: fit-content;
+    padding: 50px;
+    border-radius: 40px;
+}
+
+#curiosidades {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: black;
+    text-align: justify;
+}
