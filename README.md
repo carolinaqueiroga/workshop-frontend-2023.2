@@ -19,3 +19,6 @@
      
   PLUS (Para organizar as versões que melhor funcionam no consumo da minha API, usei uma pagina no meu Notion, no caso de algo acontecer e eu ter que procurar a versão anterior específica com menos dificuldade)
   https://www.notion.so/CONTROLE-Galeria-a89543da6ceb48eba84aa9ca3a8b2eaf?pvs=4
+
+  OBS!!
+      - Por favor, abrir o Início separadamente para que ele possa ser visualizado, motivo explicado anteriormente 
