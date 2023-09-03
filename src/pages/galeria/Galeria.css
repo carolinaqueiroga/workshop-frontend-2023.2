@@ -1,0 +1,22 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  margin-left: 110px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.273);
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: rgb(255, 210, 30);
+  margin-bottom: 30px;
+  border-radius: 30px;
+  size: 40px;
+
+}
